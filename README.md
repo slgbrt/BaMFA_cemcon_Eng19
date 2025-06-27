@@ -7,7 +7,7 @@ Bayesian Material Flow Analysis (BaMFA) codebase used for and which supplements 
 
 The study uses BaMFA methodology for reconciliation of the available data to quantify uncertainty and improve the reliability of the quantitative results.
 
-The BaMFA model was implemented in Python (v3.9.16), and `PyMC3` (v3.11.2) was used to conduct Bayesian inference via the No-U-Turn-Sampler algorithm. Refer to the manuscript for further information, results, and directions to input and output data.
+The BaMFA model was implemented in Python (v3.9.16), and `PyMC3` (v3.11.2) was used to conduct Bayesian inference via the No-U-Turn-Sampler algorithm. Input and output data is provided in the Data file. Please refer to the manuscript for further information, results, and directions to input and output data.
 
 ### System requirements
 
